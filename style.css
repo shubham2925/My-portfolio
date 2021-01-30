@@ -1,0 +1,22 @@
+.name{
+    font-size: 30px;
+    height: 100%;
+    width: 100%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfbS-THZKqJ5gQH_ar6CWAPvlOjGM8Vzs_9w&usqp=CAU);
+    padding-bottom: 50px;
+    padding-right: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    border-color: black;
+}
+
+.port{
+    padding: 10px;
+    text-align: left;
+}
+
+.image{
+    float: right;
+    border-radius: 50%;
+}
